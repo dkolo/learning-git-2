@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400i,700');
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+.jumbotron {
+	color: #fff;
+	background-image: url("https://images.pexels.com/photos/167092/pexels-photo-167092.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 40vh;
+}
+h1 {
+	font-weight: 800;
+}
+p {
+	font-style: italic;
+	padding: 15px;
+}
+.ref {
+	font-style: normal;
+}
